@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+**/__pycache__
+store/__pycache__
+*.pyc
+
+store-template-course-master
+
+db.sqlite3
